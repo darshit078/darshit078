@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Darshit Ranpariya
+- 👀 I’m interested in Robotics and IoT based projects
+- 🌱 I’m currently learning Solidwork and PCB designing 
+- linkedin - www.linkedin.com/in/darshit-ranpariya
+- 😄 Pronouns: He/him
